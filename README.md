@@ -27,3 +27,8 @@ $ npm run build
 // Start PHP build-in webserve
 $ php artisan serve
 ```
+    
+### Usage    
+```
+Browse to http://localhost:8000 on a web browser to start using
+```
