@@ -1,0 +1,11 @@
+/*@tailwind base;
+@tailwind components;
+@tailwind utilities;*/
+
+.city-toggle {
+    cursor: pointer;
+}
+
+.place-info p {
+    margin-bottom: 0;
+}
