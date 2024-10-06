@@ -32,3 +32,10 @@ $ php artisan serve
 ```
 Browse to http://localhost:8000 on a web browser to start using
 ```
+
+### Explanation
+```
+The frontend design in my mind is the best implementation as it allows a potential user to see everything they want to see of a city.
+
+I opted with a service design pattern so that the service classes are able to isolate itself from the business logic and would only be concerned of their purpose.
+```
